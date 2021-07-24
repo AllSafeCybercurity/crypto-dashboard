@@ -6,6 +6,16 @@ Free Flutter UI Kits based on designs on UpLabs 💓. <a href="https://youtu.be/
 
 NEXT=
 
+> $flutter
+upgrade
+
+doctor
+create ./ myapp
+
+cd myapp
+> flutter run 
+install
+
 Complete flutter projects are available on my <a href="https://codecanyon.net/user/chris2code/portfolio">Codecanyon.net Page</a>
 
 PRs are welcome. Issues are welcomed too.
