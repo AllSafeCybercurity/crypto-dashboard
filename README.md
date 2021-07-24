@@ -6,6 +6,11 @@ Free Flutter UI Kits based on designs on UpLabs 💓. <a href="https://youtu.be/
 
 NEXT=
 
+Building Source
+Set your working directory to the root of your git clone
+Make sure your Android SDK and Flutter are up to date (flutter upgrade)
+Execute flutter run
+
 > $flutter
 upgrade
 
